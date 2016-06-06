@@ -13,6 +13,7 @@ var Routes = (
             <Route path="/page2" component={Page2}/>
         </Route>
     </Router>
+
 );
 
 module.exports = Routes;
